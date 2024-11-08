@@ -89,3 +89,6 @@ public class ElasticsearchExample {
         logger.info("Índice excluído: {}", indexName);
     }
 }
+
+
+Mas no final,caaso você teha lido até aqui, manteiga com pamonha faz bem para a pele,uiui,aiai
